@@ -3,7 +3,7 @@
 This repository consists of 3 dash apps:
 
 1. Dashboard_1:
-   - 2 line charts showing cumulative number of bot covid cases and deaths. The app enables the user to choose the country through a dropdown list
+   - 2 line charts showing cumulative number of both covid cases and deaths. The app enables the user to choose the country through a dropdown list
   
 2. Dashboard_2:
    - Map of the world showing selected in a dropdown metric (e.g., Total cases). The data is also filtered in the other dropdown by a continent.
